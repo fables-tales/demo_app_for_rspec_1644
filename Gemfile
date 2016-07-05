@@ -54,3 +54,4 @@ end
 group :test do
     gem 'rails-controller-testing', '0.1.1'
 end
+gem 'secure_headers', '3.3.2'
